@@ -65,11 +65,12 @@
 
 /*===========banner===========*/
 .site-main .site-banner{
-	margin-bottom: 50px;
+	height: 100%;
+	padding-bottom: 50px;
 	background: #f2f2f3;
 }
 .site-main .site-banner .site-title h3{
-	padding-top: 20%;
+	padding-top: 25%;
 	font-weight: 500;
 }
 .site-main .site-banner .site-title h3:after{
@@ -93,6 +94,9 @@
 	width: 90rem;
 }
 /*=========news============*/
+.site-news {
+	margin-top: 35px;
+}
 .site-main .site-news .left-news .news-img img{
 	width: 100%;
 }
